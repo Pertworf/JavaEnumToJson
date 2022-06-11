@@ -7,7 +7,7 @@
 		"name": "htt",
 		"email": "906625912@qq.com"
 	},
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
