@@ -31,6 +31,4 @@ const ColorsEnum = {
 	AMBER: '琥珀色',
 };
 ```
-
-<iframe height="auto" width="100%" src="public/javaenumtojson-user-guide.mp4">
-[使用指南](public/javaenumtojson-user-guide.mp4)
+![使用指南](https://gitee.com/he__taotao/files/raw/master/javaenumtojson-user-guide.gif)
