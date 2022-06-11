@@ -32,4 +32,4 @@ const ColorsEnum = {
 };
 ```
 
-![使用指南](https://github.com/Pertworf/JavaEnumToJson/blob/main/javaenumtojson-user-guide.gif)
+![使用指南](https://github.com/Pertworf/JavaEnumToJson/blob/main/public/javaenumtojson-user-guide.gif)
